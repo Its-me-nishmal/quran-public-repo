@@ -215,7 +215,4 @@
     "webpack-dev-server": "^1.14.1",
     "webpack-hot-middleware": "^2.5.0"
   },
-  "engines": {
-    "node": "^20.13.0"
-  }
 }
