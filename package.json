@@ -214,5 +214,5 @@
     "webpack-dev-middleware": "^1.4.0",
     "webpack-dev-server": "^1.14.1",
     "webpack-hot-middleware": "^2.5.0"
-  },
+  }
 }
